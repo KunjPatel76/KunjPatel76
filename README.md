@@ -1,5 +1,14 @@
-# 💫 About Me:
-- 🔭 I’m currently working on **CodeArt (Advanced Visual Builder)**<br><br>- 🌱 I’m currently learning **MERN stack**<br><br>- 💬 Ask me about **Web Development**<br><br>- 📫 How to reach me **Kunj3206@gmail.com**
+![MasterHead]([https://voter-registration-project12342.000webhostapp.com/img/three.js.gif])
+<h1 align="center">Hi 👋, I'm Kunj Patel</h1>
+<h4 align="left">A highly skilled full-stack web developer from INDIA with experience with web development frameworks and databases, as well as front-end and back-end development using HTML, CSS, JavaScript, and Python.<h4> 
+  
+- 🔭 I’m currently working on **CodeArt (Advanced Visual Builder)**
+
+- 🌱 I’m currently learning **MERN stack**
+
+- 💬 Ask me about **Web Development**
+
+- 📫 How to reach me **Kunj3206@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/bdf64db7ecc488c26bedeca8dd6a4909eecb2f05b2d06698c14013fab5b4e5cf/68747470733a2f2f692e696d6775722e636f6d2f6d5649723230372e676966">
 
 
