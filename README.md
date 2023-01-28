@@ -1,4 +1,4 @@
-[![three-js.gif](https://i.postimg.cc/Zn5YG31G/three-js.gif)](https://postimg.cc/YGTwg42R)
+[![three-js.jpg](https://i.postimg.cc/bwccbkmq/three-js.jpg)](https://postimg.cc/RNRDx6rY)
 <h1 align="center">Hi 👋, I'm Kunj Patel</h1>
 <h4 align="left">A highly skilled full-stack web developer from INDIA with experience in web development frameworks and databases, as well as front-end and back-end development using HTML, CSS, JavaScript, and Python.<h4> 
   
